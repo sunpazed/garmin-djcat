@@ -1,0 +1,180 @@
+<resources>
+    <strings>
+      <string id="AppName">DJ Cat</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="bitmaps/launcher_icon.png" />
+    </drawables>
+
+    <fonts>
+      <font id="font_block" filename="fonts/block.fnt" antialias="true"/>
+    </fonts>
+
+    <bitmaps>
+      <bitmap id="cat_01" filename="bitmaps/cat-01.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_02" filename="bitmaps/cat-02.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_03" filename="bitmaps/cat-03.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_04" filename="bitmaps/cat-04.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_05" filename="bitmaps/cat-05.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_06" filename="bitmaps/cat-06.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_07" filename="bitmaps/cat-07.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_08" filename="bitmaps/cat-08.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+      <bitmap id="cat_09" filename="bitmaps/cat-09.png">
+        <palette>
+          <color>000000</color>
+          <color>000055</color>
+          <color>0000AA</color>
+          <color>550000</color>
+          <color>0000FF</color>
+          <color>550055</color>
+          <color>5500AA</color>
+          <color>005500</color>
+          <color>555555</color>
+          <color>AA5500</color>
+          <color>AAAAAA</color>
+          <color>AAFFFF</color>
+          <color>FFFFAA</color>
+          <color>FFFFFF</color>
+        </palette>
+      </bitmap>
+
+    </bitmaps>
+
+</resources>

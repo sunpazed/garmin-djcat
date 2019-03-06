@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="source/BasicApp.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="source/BasicApp.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="source/BasicApp.mc" lineNum="13" pc="268435483" symbol="onSettingsChanged"/>
+<entry filename="source/BasicApp.mc" lineNum="14" pc="268435487" symbol="onSettingsChanged"/>
+<entry filename="source/BasicApp.mc" lineNum="18" pc="268435504" symbol="onStart"/>
+<entry filename="source/BasicApp.mc" lineNum="22" pc="268435509" symbol="onStop"/>
+<entry filename="source/BasicApp.mc" lineNum="26" pc="268435514" symbol="getInitialView"/>
+<entry filename="source/BasicApp.mc" lineNum="27" pc="268435518" symbol="getInitialView"/>
+<entry filename="source/BasicView.mc" lineNum="55" pc="268435556" symbol="initialize"/>
+<entry filename="source/BasicView.mc" lineNum="56" pc="268435560" symbol="initialize"/>
+<entry filename="source/BasicView.mc" lineNum="60" pc="268435583" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="63" pc="268435587" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="64" pc="268435606" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="67" pc="268435625" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="68" pc="268435651" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="70" pc="268435664" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="74" pc="268435674" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="75" pc="268435691" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="77" pc="268435707" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="78" pc="268435718" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="82" pc="268435779" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="83" pc="268435828" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="84" pc="268435878" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="85" pc="268435913" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="86" pc="268435948" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="90" pc="268436000" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="92" pc="268436014" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="94" pc="268436028" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="95" pc="268436039" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="99" pc="268436056" symbol="onLayout"/>
+<entry filename="source/BasicView.mc" lineNum="109" pc="268436071" symbol="onShow"/>
+<entry filename="source/BasicView.mc" lineNum="114" pc="268436076" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="118" pc="268436080" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="119" pc="268436097" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="122" pc="268436144" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="123" pc="268436160" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="124" pc="268436176" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="125" pc="268436192" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="126" pc="268436208" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="127" pc="268436276" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="130" pc="268436344" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="131" pc="268436361" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="132" pc="268436371" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="135" pc="268436427" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="136" pc="268436444" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="139" pc="268436460" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="140" pc="268436497" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="142" pc="268436509" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="144" pc="268436526" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="148" pc="268436542" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="154" pc="268436570" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="155" pc="268436587" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="158" pc="268436612" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="159" pc="268436643" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="162" pc="268436668" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="163" pc="268436685" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="166" pc="268436710" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="167" pc="268436727" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="172" pc="268436752" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="173" pc="268436788" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="176" pc="268436800" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="177" pc="268436813" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="179" pc="268436826" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="185" pc="268436833" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="186" pc="268436870" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="187" pc="268436913" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="191" pc="268436946" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="192" pc="268436983" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="193" pc="268437026" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="197" pc="268437056" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="198" pc="268437093" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="199" pc="268437136" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="203" pc="268437166" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="204" pc="268437203" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="205" pc="268437246" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="209" pc="268437273" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="210" pc="268437309" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="212" pc="268437444" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="213" pc="268437480" symbol="onUpdate"/>
+<entry filename="source/BasicView.mc" lineNum="220" pc="268437604" symbol="onHide"/>
+<entry filename="source/BasicView.mc" lineNum="224" pc="268437609" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="227" pc="268437613" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="228" pc="268437629" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="231" pc="268437651" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="232" pc="268437668" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="233" pc="268437702" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="236" pc="268437749" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="237" pc="268437760" symbol="callback1"/>
+<entry filename="source/BasicView.mc" lineNum="245" pc="268437782" symbol="onExitSleep"/>
+<entry filename="source/BasicView.mc" lineNum="248" pc="268437786" symbol="onExitSleep"/>
+<entry filename="source/BasicView.mc" lineNum="249" pc="268437796" symbol="onExitSleep"/>
+<entry filename="source/BasicView.mc" lineNum="250" pc="268437830" symbol="onExitSleep"/>
+<entry filename="source/BasicView.mc" lineNum="255" pc="268437875" symbol="onEnterSleep"/>
+<entry filename="source/BasicView.mc" lineNum="257" pc="268437879" symbol="onEnterSleep"/>
+<entry filename="source/BasicView.mc" lineNum="258" pc="268437889" symbol="onEnterSleep"/>
+<entry filename="source/BasicView.mc" lineNum="261" pc="268437905" symbol="onEnterSleep"/>
+<entry filename="source/BasicView.mc" lineNum="262" pc="268437916" symbol="onEnterSleep"/>
+<entry filename="source/BasicView.mc" lineNum="265" pc="268437937" symbol="onEnterSleep"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8388937" symbol="day_of_week"/>
+<entry field="true" id="8389793" symbol="debug"/>
+<entry id="12" object="true" symbol="BasicView"/>
+<entry field="true" id="19" symbol="van"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="25" symbol="bluetooth"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="36" symbol="set_leading_zero"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="24" symbol="disable"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="35" symbol="canvas_r240"/>
+<entry field="true" id="29" symbol="canvas_w"/>
+<entry field="true" id="18" symbol="van_04"/>
+<entry field="true" id="17" symbol="van_03"/>
+<entry field="true" id="16" symbol="van_02"/>
+<entry field="true" id="15" symbol="van_01"/>
+<entry field="true" id="28" symbol="canvas_h"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="11" symbol="SCREEN_SHAPE_RECT"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry field="true" id="9" symbol="SCREEN_SHAPE_CIRC"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="34" symbol="canvas_tall"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="37" symbol="b_van"/>
+<entry field="true" id="30" symbol="canvas_shape"/>
+<entry id="8" object="true" symbol="BasicApp"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8388700" method="true" symbol="callback1"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="8389338" symbol="minute"/>
+<entry field="true" id="10" symbol="SCREEN_SHAPE_SEMICIRC"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry field="true" id="22" symbol="timer_timeout"/>
+<entry field="true" id="26" symbol="month_str"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="31" symbol="canvas_rect"/>
+<entry field="true" id="8389850" symbol="count"/>
+<entry field="true" id="27" symbol="vert_layout"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry field="true" id="33" symbol="canvas_semicirc"/>
+<entry field="true" id="32" symbol="canvas_circ"/>
+<entry field="true" id="23" symbol="timer_steps"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388633" symbol="ActivityMonitor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436070" name="deviceSettings" stackId="2" startPc="268435587"/>
+<entry endPc="268437603" name="b_width" stackId="9" startPc="268436080"/>
+<entry endPc="268437603" name="deviceSettings" stackId="6" startPc="268436080"/>
+<entry endPc="268437603" name="batteryRaw" stackId="5" startPc="268436080"/>
+<entry endPc="268437603" name="dw" stackId="7" startPc="268436080"/>
+<entry endPc="268437603" name="date" stackId="3" startPc="268436080"/>
+<entry endPc="268437603" name="stats" stackId="4" startPc="268436080"/>
+<entry endPc="268437603" name="dh" stackId="8" startPc="268436080"/>
+<entry endPc="268437603" name="clockTime" stackId="2" startPc="268436080"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="BasicApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="BasicApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BasicApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="BasicApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BasicApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="BasicView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BasicView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="BasicView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BasicView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="BasicView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="callback1" parent="BasicView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="BasicView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="BasicView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
